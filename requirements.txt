@@ -1,0 +1,9 @@
+langgraph
+fastapi
+uvicorn
+streamlit
+pandas
+scikit-learn
+chromadb
+sentence-transformers
+requests

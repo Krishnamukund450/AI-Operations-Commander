@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+memory/faiss_index.bin
+memory/incidents.pkl
+.env
