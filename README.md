@@ -33,7 +33,7 @@ System Metrics → Monitoring → Prediction → Planner → Decision
                                   Learning → FAISS
                                       ↓
                                     Alert
-
+```
 
 ##⚙️ Features
 
@@ -102,7 +102,7 @@ ai-operations-commander/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-
+```
 ##🛠️ Tech Stack
 
 Python
