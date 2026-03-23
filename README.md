@@ -1,3 +1,38 @@
-# AI-Operations-Commander
-Autonomous AI multi-agent system for infrastructure monitoring, anomaly detection, and automated operations using FastAPI, LangGraph, and Streamlit.
-<img width="1536" height="1024" alt="ChatGPT Image Mar 23, 2026, 07_48_59 PM" src="https://github.com/user-attachments/assets/28485a80-e47f-497e-94bb-e7878c2d8af2" />
+# 🚀 AI Operations Commander
+
+An intelligent multi-agent system that monitors system health, detects anomalies, makes decisions, and executes actions autonomously using Machine Learning + LLM reasoning + memory.
+
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="images/demo.gif" width="700"/>
+</p>
+
+---
+
+## 🧠 Workflow Diagram
+
+<p align="center">
+  <img src="images/architecture.png" width="800"/>
+</p>
+
+---
+
+## 🔄 System Workflow
+
+```text
+System Metrics → Monitoring → Prediction → Planner → Decision
+                                      ↓
+                                 Knowledge ↔ FAISS Memory
+                                      ↓
+                             (if no similar incident)
+                                      ↓
+                                     LLM
+                                      ↓
+                                   Action
+                                      ↓
+                                  Learning → FAISS
+                                      ↓
+                                    Alert
