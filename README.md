@@ -6,17 +6,14 @@ An intelligent multi-agent system that monitors system health, detects anomalies
 
 ## 🎥 Demo
 
-<p align="center">
-  <img src="images/demo.gif" width="700"/>
-</p>
+![demo](https://github.com/user-attachments/assets/b1c436dd-2d67-4428-89d9-7436549c754a)
+
 
 ---
 
 ## 🧠 Workflow Diagram
 
-<p align="center">
-  <img src="images/architecture.png" width="800"/>
-</p>
+<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/bfb5b14d-89f0-48dc-a31b-969df9766497" />
 
 ---
 
